@@ -1,3 +1,7 @@
+![world_analysis](https://github.com/user-attachments/assets/4e11a99b-53b6-4e35-9ce7-46e036dc0281)
+### World Analyzer
+Анализатор карт .sqlite для Luanti (Minetest). Положите файл map.sqlite в папку со скриптом!
+
 ### 1. Декодирование позиции блока
 
 Позиция блока в Minetest хранится как хэш. Алгоритм декодирования:
